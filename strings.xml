@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Masjid Azaan</string>
+    <string name="masjid_name">Al-Huda Islamic Center</string>
+    <string name="test_azaan">Test Azaan Locally</string>
+    <string name="stop_audio">Stop Audio</string>
+    <string name="broadcast_azaan">BROADCAST AZAAN</string>
+    <string name="imam_mode_active">Imam Mode Active</string>
+    <string name="enter_pin">Enter Imam PIN</string>
+    <string name="set_pin">Set 4-Digit Imam PIN</string>
+    <string name="incorrect_pin">Incorrect PIN</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+</resources>

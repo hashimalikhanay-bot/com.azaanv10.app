@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546698724252",
+    "project_id": "com-azzan-app",
+    "storage_bucket": "com-azzan-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546698724252:android:5c2ef1751e67496033fe59",
+        "android_client_info": {
+          "package_name": "com.azzan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADImAJ1ZE02ALEBqDh0x8nLcoWq5AD4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
